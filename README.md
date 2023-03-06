@@ -10,7 +10,7 @@ apresentação com a exploração dos dados.
 # Modelo Relacional 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/113732065/223155933-197c89e9-9a9e-419b-b876-0e5dafda667c.jpeg)">
+<img src="https://user-images.githubusercontent.com/113732065/223155933-197c89e9-9a9e-419b-b876-0e5dafda667c.jpeg">
 </div>
 
 # Autores 
