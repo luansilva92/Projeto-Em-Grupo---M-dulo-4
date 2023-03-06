@@ -13,6 +13,14 @@ apresentação com a exploração dos dados.
 <img src="https://user-images.githubusercontent.com/113732065/223155933-197c89e9-9a9e-419b-b876-0e5dafda667c.jpeg">
 </div>
 
+# Perguntas
+
+###- Quais episódios com a nota maior ou igual a 9? 
+###- Quais são os 5 episódios com os maiores números de votos? 
+###- Quais escritores tem o maiores números de colaborações como autor principal e co-autor? 
+###- Quais são os 10 episódios mais curtos? 
+###- Quais são os 10 episódios mais comentados pelos fãs?
+
 ## :handshake: Colaboradores
 
 ### Luan Silva
