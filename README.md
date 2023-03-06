@@ -9,7 +9,9 @@ apresentação com a exploração dos dados.
 
 # Modelo Relacional 
 
-<img src="file:///C:/Users/luan.silva/Downloads/WhatsApp%20Image%202023-03-06%20at%2011.40.04.jpeg"
+<div align="center">
+<img heigth="350em" src="https://app.brmodeloweb.com/#!/logic/%7B%22modelid%22:%226405f007d19c5a28f8bcc60d%22,%22conversionId%22:%22%22%7D">
+</div>
 
 # Autores 
 
