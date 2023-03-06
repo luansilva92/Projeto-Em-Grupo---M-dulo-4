@@ -13,7 +13,7 @@ apresentação com a exploração dos dados.
 <img src="https://user-images.githubusercontent.com/113732065/223155933-197c89e9-9a9e-419b-b876-0e5dafda667c.jpeg">
 </div>
 
-# Autores 
+## :handshake: Colaboradores
 
 ### Luan Silva
 <a style="display: block;" href="https://github.com/luansilva92" target="_blank">
