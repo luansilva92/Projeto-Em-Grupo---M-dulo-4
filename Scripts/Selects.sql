@@ -1,20 +1,23 @@
+/*- Quais episódios com a nota maior ou igual a 9? */
 
-select count(episode) from episodios where Writer_1 like "George%";
-select count(episode) from episodios where Writer_1 like "David%";
+select Season as Temporada, Episode as Episódio, Title as Título, Rating as Avaliações from episodios where Rating >=9 order by Rating desc;
 
-select Release_date from episodios where Season like 1 and Episode like 1;
-select Release_date from episodios where Season like 8 and Episode like 6;
+/*- Quais são os 5 episódios com os maiores números de votos? */
 
-select Season Temporada, Episode Episodio, Title Titulo, Rating Nota from episodios where Rating >=9;
+select Season as Temporada, Episode as Episódio, Title as Título, Votes as Votos from episodios order by Votes desc limit 5;
 
-select Votes Votos, Season Temporada, Episode Episodio, Title Titulo from episodios order by votes desc limit 1;
+/*- Quais escritores tem o maiores números de colaborações como autor principal e co-autor? */
 
-select Critics_reviews Comentarios, Season Temporada, Episode Episodio, Title Titulo from episodios 
-order by Critics_reviews desc limit 1;
+select Escritores, sum(Participação) as Participações
+ from (select writer_1 as Escritores, count(*) as Participação from episodios GROUP BY writer_1 union
+select writer_2 as Escritores, count(*) as Participação from episodios GROUP BY writer_2
+) t group by Escritores order by Participações desc; 
 
-select Duration Duracao, Season Temporada, Episode Episodio, Title Titulo from episodios 
-order by Duration limit 10;
 
-select Release_date Lancamento, Season Temporada, Episode Episodio, Title Titulo, Writer_1 Escritor_1 
-from episodios where Episode like 1;
+/*- Quais são os 10 episódios mais curtos? */
 
+select Duration Duracao, Season Temporada, Episode Episodio, Title Titulo from episodios order by Duration limit 10;
+
+/*- Quais são os 10 episódios mais comentados pelos fãs?*/
+
+select Season as Temporada, Episode as Episódio, Title as Título, Users_reviews as Total_de_comentários from episodios order by Users_reviews desc limit 10;
