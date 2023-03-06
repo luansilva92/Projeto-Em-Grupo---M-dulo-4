@@ -9,6 +9,8 @@ apresentação com a exploração dos dados.
 
 # Modelo Relacional 
 
+<img src="file:///C:/Users/luan.silva/Downloads/WhatsApp%20Image%202023-03-06%20at%2011.40.04.jpeg"
+
 # Autores 
 
 ### Luan Silva
