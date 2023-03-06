@@ -1,4 +1,5 @@
 # Projeto Em Grupo - Módulo-4
+![badge-status](https://img.shields.io/badge/status-FINALIZADO-green?style=for-the-badge)
 
 # Objetivo do Projeto 
 
