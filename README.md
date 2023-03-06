@@ -15,11 +15,11 @@ apresentação com a exploração dos dados.
 
 # Perguntas
 
-###- Quais episódios com a nota maior ou igual a 9? 
-###- Quais são os 5 episódios com os maiores números de votos? 
-###- Quais escritores tem o maiores números de colaborações como autor principal e co-autor? 
-###- Quais são os 10 episódios mais curtos? 
-###- Quais são os 10 episódios mais comentados pelos fãs?
+- Quais episódios com a nota maior ou igual a 9? 
+- Quais são os 5 episódios com os maiores números de votos? 
+- Quais escritores tem o maiores números de colaborações como autor principal e co-autor? 
+- Quais são os 10 episódios mais curtos? 
+- Quais são os 10 episódios mais comentados pelos fãs?
 
 ## :handshake: Colaboradores
 
