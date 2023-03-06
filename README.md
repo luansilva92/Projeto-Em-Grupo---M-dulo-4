@@ -10,7 +10,7 @@ apresentação com a exploração dos dados.
 # Modelo Relacional 
 
 <div align="center">
-<img heigth="350em" src="https://app.brmodeloweb.com/#!/logic/%7B%22modelid%22:%226405f007d19c5a28f8bcc60d%22,%22conversionId%22:%22%22%7D">
+<img src="https://app.brmodeloweb.com/#!/logic/%7B%22modelid%22:%226405f007d19c5a28f8bcc60d%22,%22conversionId%22:%22%22%7D">
 </div>
 
 # Autores 
