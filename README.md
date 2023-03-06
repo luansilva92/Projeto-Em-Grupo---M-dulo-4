@@ -7,6 +7,8 @@ um dashboard com base no conjunto de dados
 escolhidos por vocês, a fim de realizar uma
 apresentação com a exploração dos dados.
 
+# Modelo Relacional 
+
 # Autores 
 
 ### Luan Silva
